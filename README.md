@@ -1,8 +1,8 @@
 # COLETOR DE DADOS.V1
 A idéia do programa é coletar os dados do usuário e no final montar uma frase com os dados informados
 
-# COLETOR DE DADOS.V1
-## O QUE FOI MUDADO ?
+# COLETOR DE DADOS.V2
+## O QUE FOI ALTERADO ?
 
 `Função get_valid_age`:
 
